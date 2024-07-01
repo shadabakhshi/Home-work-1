@@ -1,0 +1,302 @@
+*{
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+.mein{
+    display: flex;
+}
+.img{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.text1{
+    margin-left: 80px;
+    margin-top: 50px;
+}
+
+.text1:hover{
+    background-color: black;
+    width: 50px;
+    height: 30px;
+    padding: 10px 50px;
+    color: whitesmoke;
+
+
+}
+
+.center{
+    margin-left: 500px;
+}
+.start{
+border-right: px solid black ;
+width: 20%;
+/* height: ; q */
+position: fixed;
+
+}
+
+.end{
+    left: 76%;
+    position: fixed;
+}
+#item1{
+    margin-left: -30px;
+}
+
+
+
+
+
+.center{
+ border-right: px solid black ;
+ width: 54%;
+ height: 1100px;
+ display: flex;
+}
+
+
+.bluak1{
+ position: relative;
+ left: 60px;
+ top: 40px;
+ 
+ 
+}
+
+.bluak2{
+    position: relative;
+    left: 80px;
+    top: 40px;
+    
+   }
+   .bluak3{
+    position: relative;
+    left: 100px;
+    top: 40px;
+    
+   }
+   .bluak4{
+    position: relative;
+    left: 120px;
+    top: 40px;
+    
+   }
+   .bluak5{
+    position: relative;
+    left: 140px;
+    top: 40px;
+    
+   }
+   .bluak6{
+    position: relative;
+    left: 160px;
+    top: 40px;
+    
+   }
+   .bluak7{
+    position: relative;
+    left: 180px;
+    top: 40px;
+    
+   }
+   .bluak8{
+    position: relative;
+    left: 200px;
+    top: 40px;
+    
+   }
+   .text2{
+    text-align: center;
+   }
+
+
+
+   .img{
+    position: relative;
+    right: 30px;
+    top: 1px;
+    
+   }
+   .text3{
+    color: rgb(0, 195, 255);
+    margin-left: 420px;
+    margin-top: -28px;
+    font-weight: 100;
+    font-size: 18px;
+    bottom: 100px;
+   }
+   .text3:hover{
+   color: black;
+
+
+
+   }
+   .text4{
+    margin-left: 115px;
+    margin-top: -70px;
+    font-weight: 100;
+   }
+   .text5{
+    margin-left: 115px;
+    margin-top: -0px;
+    color: gray;
+   }
+   .text6{
+    margin-top: 100px;
+    margin-left: 28px;
+    font-weight: 100;
+    font-size: 28px;
+    color: gray;
+   }
+   .text7{
+    margin-top: -25px;
+    margin-left: 420px;
+    font-size: 18px;
+   }
+   .text7:hover{
+    color: gray;
+ 
+ 
+    }
+
+    .text10{
+        color: gray;
+        margin-top: 60px;
+        margin-left: 30px;
+        font-size: 16px;
+        font-weight: 100;
+
+    }
+    .text11{
+        color: gray;
+        margin-top: 90px;
+        margin-left: 30px;
+        font-size: 16px;
+        font-weight: 100;
+
+    }
+    .img1{
+        position: relative;
+        right: 610px;   
+        top: 260px;  
+    }
+
+    .text12{
+        position: relative;
+        right: 530px;   
+        top: 170px;  
+    }
+    .text13{
+        position: relative;
+        right: 530px;   
+        top: 170px;  
+    }
+    .img2{
+        position: relative;
+        right: 20px;   
+        top: 205px;  
+    }
+    .img3{
+        position: relative;
+        right: 700px;
+        top: 350px;
+    }
+    .img4{
+        border-radius: 1%;
+    }
+    #img5{
+        padding: 10px 20px;
+        font-size: 30px;
+
+    }
+    #img5:hover{
+        color: red;
+     
+     
+        }
+    #img6{
+        padding: 10px 20px;
+        font-size: 30px;
+        position: relative;
+        right: 25px;
+
+    }
+    #img7{
+        position: relative;
+        top: 10px;
+        right: 35px;
+    
+    }
+    #img8{
+        padding: 10px 20px;
+        font-size: 25px;
+        position: relative;
+        left: 385px;
+
+    }
+
+    .img9{
+        position: relative;
+        right: 1350px;   
+        top: 1400px;  
+
+    }
+    .img10{
+        position: relative;
+        right: 745px;   
+        top: 1340px;  
+    }
+    .text14{
+        position: relative;
+        right: 1260px;   
+        top: 1310px;  
+    }
+    .text15{
+        position: relative;
+        right: 1260px;   
+        top: 1310px;  
+    }
+    .img11{
+        position: relative;
+        right: 740px;
+        top: 1150px;
+        border-radius: 1%;
+    }
+    #img12{
+        padding: 10px 20px;
+        font-size: 30px;
+        position: relative;
+        top: 1130px;
+        right: 730px;
+    }
+    #img13{
+        padding: 10px 20px;
+        font-size: 30px;
+        position: relative;
+        top: 1130px;
+        right: 750px;
+    }
+    #img14{
+        padding: 10px 20px;
+        font-size: 30px;
+        position: relative;
+        top: 1150px;
+        right: 770px;
+    }
+
+    #img15{
+        padding: 10px 20px;
+        font-size: 30px;
+        position: relative;
+        top: 1130px;
+        right: 400px;
+    }
+    #img12:hover{
+        color: red;
+     
+     
+        }
+
+
+
